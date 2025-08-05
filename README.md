@@ -70,3 +70,8 @@ Use [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.res
 - Students preparing for technical exams
 - Python learners seeking deeper understanding of core programming
 - Anyone revising core CS logic throu
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
